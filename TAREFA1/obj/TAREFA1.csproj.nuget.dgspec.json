@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wendi\\OneDrive\\Documentos\\GitHub\\prova-logica2\\Prova Lógica TG4\\TAREFA1\\TAREFA1.csproj": {}
+    "C:\\Users\\wendi\\OneDrive\\Documentos\\GitHub\\prova-logica2\\TAREFA1\\TAREFA1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wendi\\OneDrive\\Documentos\\GitHub\\prova-logica2\\Prova Lógica TG4\\TAREFA1\\TAREFA1.csproj": {
+    "C:\\Users\\wendi\\OneDrive\\Documentos\\GitHub\\prova-logica2\\TAREFA1\\TAREFA1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wendi\\OneDrive\\Documentos\\GitHub\\prova-logica2\\Prova Lógica TG4\\TAREFA1\\TAREFA1.csproj",
+        "projectUniqueName": "C:\\Users\\wendi\\OneDrive\\Documentos\\GitHub\\prova-logica2\\TAREFA1\\TAREFA1.csproj",
         "projectName": "TAREFA1",
-        "projectPath": "C:\\Users\\wendi\\OneDrive\\Documentos\\GitHub\\prova-logica2\\Prova Lógica TG4\\TAREFA1\\TAREFA1.csproj",
+        "projectPath": "C:\\Users\\wendi\\OneDrive\\Documentos\\GitHub\\prova-logica2\\TAREFA1\\TAREFA1.csproj",
         "packagesPath": "C:\\Users\\wendi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wendi\\OneDrive\\Documentos\\GitHub\\prova-logica2\\Prova Lógica TG4\\TAREFA1\\obj\\",
+        "outputPath": "C:\\Users\\wendi\\OneDrive\\Documentos\\GitHub\\prova-logica2\\TAREFA1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wendi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[30.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
