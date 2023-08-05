@@ -1,0 +1,16 @@
+C:\Users\wendi\OneDrive\Documentos\GitHub\prova-logica2\TAREFA2\bin\Debug\netcoreapp3.1\TAREFA2.exe
+C:\Users\wendi\OneDrive\Documentos\GitHub\prova-logica2\TAREFA2\bin\Debug\netcoreapp3.1\TAREFA2.deps.json
+C:\Users\wendi\OneDrive\Documentos\GitHub\prova-logica2\TAREFA2\bin\Debug\netcoreapp3.1\TAREFA2.runtimeconfig.json
+C:\Users\wendi\OneDrive\Documentos\GitHub\prova-logica2\TAREFA2\bin\Debug\netcoreapp3.1\TAREFA2.runtimeconfig.dev.json
+C:\Users\wendi\OneDrive\Documentos\GitHub\prova-logica2\TAREFA2\bin\Debug\netcoreapp3.1\TAREFA2.dll
+C:\Users\wendi\OneDrive\Documentos\GitHub\prova-logica2\TAREFA2\bin\Debug\netcoreapp3.1\TAREFA2.pdb
+C:\Users\wendi\OneDrive\Documentos\GitHub\prova-logica2\TAREFA2\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\wendi\OneDrive\Documentos\GitHub\prova-logica2\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.csproj.AssemblyReference.cache
+C:\Users\wendi\OneDrive\Documentos\GitHub\prova-logica2\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendi\OneDrive\Documentos\GitHub\prova-logica2\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.AssemblyInfoInputs.cache
+C:\Users\wendi\OneDrive\Documentos\GitHub\prova-logica2\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.AssemblyInfo.cs
+C:\Users\wendi\OneDrive\Documentos\GitHub\prova-logica2\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.csproj.CoreCompileInputs.cache
+C:\Users\wendi\OneDrive\Documentos\GitHub\prova-logica2\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.csproj.CopyComplete
+C:\Users\wendi\OneDrive\Documentos\GitHub\prova-logica2\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.dll
+C:\Users\wendi\OneDrive\Documentos\GitHub\prova-logica2\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.pdb
+C:\Users\wendi\OneDrive\Documentos\GitHub\prova-logica2\TAREFA2\obj\Debug\netcoreapp3.1\TAREFA2.genruntimeconfig.cache
